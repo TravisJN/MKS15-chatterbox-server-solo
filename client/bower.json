@@ -1,0 +1,21 @@
+{
+  "name": "chatterbox-client",
+  "version": "0.0.0",
+  "homepage": "https://github.com/TravisJN/MKS15-chatterbox-server",
+  "authors": [
+    "travisjn <tdizzletrav@gmail.com>"
+  ],
+  "description": "chatterbox client",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "underscore": "~1.8.2"
+  }
+}
